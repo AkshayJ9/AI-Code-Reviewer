@@ -2,7 +2,7 @@
 
 An AI-powered code review tool built with modern web technologies to help developers improve code quality through automated analysis and actionable feedback.
 
-![Demo](https://via.placeholder.com/800x400?text=AI+Code+Reviewer+Demo) *Replace with actual demo image*
+![Demo](https://via.placeholder.com/800x400?text=AI+Code+Reviewer+Demo) 
 
 ---
 
